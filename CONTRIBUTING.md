@@ -1,7 +1,7 @@
 # How to contribute to the OpenVINO repository
 
 We welcome community contributions to OpenVINO™. Please read the following guide to learn how to find ideas for contribution, practices for good pull requests, checking your changes with our tests and more.
-
+[![Top Contributors Widget](https://open-source-assets.middlewarehq.com/svgs/openvinotoolkit-openvino-contributor-metrics-dark-widget.svg)](https://www.middlewarehq.com/)
 
 ## Before you start contributing you should
 
